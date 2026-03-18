@@ -8,10 +8,10 @@
     "eslint-plugin"
   ],
   "author": "Stuart Thomas",
-  "homepage": "https://github.com/stuart-thomas-zoopla/eslint-k6-plugin",
+  "homepage": "https://github.com/stuart-thomas-tqd/eslint-k6-plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stuart-thomas-zoopla/eslint-k6-plugin"
+    "url": "https://github.com/stuart-thomas-tqd/eslint-k6-plugin"
   },
   "main": "./lib/index.js",
   "exports": "./lib/index.js",
