@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-k6-linting-rules",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Linting rule set to support linting of k6 tests.",
   "keywords": [
     "eslint",
